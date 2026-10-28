@@ -56,7 +56,7 @@ Get-Content daily_report.txt | selec-String  "Warning
 - [ ] Mô tả ngắn có cả **in đậm** và *in nghiêng*
 - [ X ] Bảng `Thư mục | Nội dung`, ít nhất 3 dòng dữ liệu
 - [ X ] Code block chứa lệnh PowerShell/Terminal liệt kê nội dung dự án
-- [ ] Task list ít nhất 2 công việc, có ít nhất 1 mục đã hoàn thành
+- [ X ] Task list ít nhất 2 công việc, có ít nhất 1 mục đã hoàn thành
 - [ ] Blockquote nhắc không upload `.env`
 
 ## 4.5. Chạy script auto_report (.ps1 hoặc .sh)
@@ -110,5 +110,8 @@ Get-Content daily_report.txt | selec-String  "Warning
 ## 4.8. Excel
 
 > Phần Excel được chấm trực tiếp trên file `data/dat_tour_thang_8.xlsx`, không cần ghi vào đây.
+>
+> ** KHÔNG UPLOAD .env **
+> 
 
 
